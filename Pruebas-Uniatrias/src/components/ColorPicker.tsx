@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'reac';
 
 interface ColorPickerProps {
   initialColor?: string;
